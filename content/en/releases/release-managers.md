@@ -172,6 +172,7 @@ GitHub team: [@kubernetes/build-admins](https://github.com/orgs/kubernetes/teams
 
 - Aaron Crickenberger ([@spiffxp](https://github.com/spiffxp))
 - Benjamin Elder ([@BenTheElder](https://github.com/BenTheElder))
+- Ben Kazemi ([@BenjaminKazemi](https://github.com/BenjaminKazemi))
 - Grant McCloskey ([@MushuEE](https://github.com/MushuEE))
 - Juan Escobar ([@juanfescobar](https://github.com/juanfescobar))
 
